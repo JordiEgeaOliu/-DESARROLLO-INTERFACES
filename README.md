@@ -97,7 +97,9 @@ dasd
 ## imagenes
 ![stikcyma](https://akamai.sscdn.co/uploadfile/letras/fotos/6/c/d/b/6cdb17cf0763af1b9480fa2b20c51eab.jpg)
 
-
+---
+## Menciones a persona o ekipos
+@juafcor
 
 
 
