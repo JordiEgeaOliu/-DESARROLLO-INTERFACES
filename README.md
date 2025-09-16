@@ -99,7 +99,7 @@ dasd
 
 ---
 ## Menciones a persona o ekipos
-@juafcor
+@github/juafcor
 
 
 
