@@ -76,8 +76,8 @@ este el comando para inciliclizar un repo git: `git init` solo una tilde
 
 y esto ejemplo de python
 
-```
-print('holamunco')
+```python
+ print('holamunco')
 ```
 ## texto prefotmateado y codigo fuente
 
@@ -119,16 +119,25 @@ con los 2 puntos se alinean a donde esten puestoa
  <summary>esta es una desplegable</summary>
  adsadasdasdasdasddaasd
 </details>
-<details>
-<summarry>cual es el codigo pa imprimir en ptyhon
 
+<details>
+ <summary>
+  cual es el codigo pa imprimir en ptyhon
+ </summary>
  
-</summarry>
  ```python
- print('texto')
+ print( 'texto' )
  ```
 </details>
+## diagrama de flujo lr left to roght td arriba ajabo
 
+```merdaid
+ graph td;
+  A-->B;
+  A-->C;
+  B-->D;
+  D-->D;
+```
 
 
 
