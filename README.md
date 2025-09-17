@@ -110,7 +110,8 @@ enlazar palabra [xd1]
 
 ## Tablas
 | columna1 | columna2 | COlumna3 | 
-
+| --- | --- | ---| 
+| hola | xd | lol |
 
 
 
