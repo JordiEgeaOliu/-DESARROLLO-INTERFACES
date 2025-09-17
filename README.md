@@ -119,7 +119,15 @@ con los 2 puntos se alinean a donde esten puestoa
  <summary>esta es una desplegable</summary>
  adsadasdasdasdasddaasd
 </details>
+<details>
+<summarry>cual es el codigo pa imprimir en ptyhon
 
+ 
+</summarry>
+ ```python
+ print('texto')
+ ```
+</details>
 
 
 
