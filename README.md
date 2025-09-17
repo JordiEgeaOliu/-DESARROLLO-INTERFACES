@@ -110,12 +110,15 @@ enlazar palabra [xd1]
 
 ## Tablas
 | columna1 | columna2 | COlumna3 | 
-| --- | --- | ---| 
+| ---: | :---: | :--- | 
 | hola | xd | lol |
 
-
-
-
+con los 2 puntos se alinean a donde esten puestoa
+## despegables
+<details>
+ <summary>esta es una desplegable</summary>
+ adsadasdasdasdasddaasd
+</details>
 
 
 
