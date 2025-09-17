@@ -101,9 +101,15 @@ dasd
 ## Menciones a persona o ekipos
 @github/juafcor
 
-## Hotas al pie
-enlazo nota al pie[1^]
+## Notas al pie
+enlazo nota al pie [1^]
+enlazar palabra [xd1]
 
+[^1] la llamo
+[^xd]llamao
+
+## Tablas
+| columna1 | columna2 | COlumna3 | 
 
 
 
