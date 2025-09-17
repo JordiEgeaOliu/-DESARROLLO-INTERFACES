@@ -101,8 +101,8 @@ dasd
 ## Menciones a persona o ekipos
 @github/juafcor
 
-
-
+## Hotas al pie
+enlazo nota al pie[1^]
 
 
 
