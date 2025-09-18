@@ -129,7 +129,7 @@ con los 2 puntos se alinean a donde esten puestoa
  print( 'texto' )
  ```
 </details>
-## diagrama de flujo lr left to roght td arriba ajabo
+## diagrama de flujo LR left to roght TD arriba ajabo
 
 Here is a simple flow chart:
 
