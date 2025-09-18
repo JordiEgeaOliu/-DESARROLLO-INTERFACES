@@ -136,7 +136,7 @@ con los 2 puntos se alinean a donde esten puestoa
   A-->B;
   A-->C;
   B-->D;
-  D-->D;
+  C-->D;
 ```
 
 
