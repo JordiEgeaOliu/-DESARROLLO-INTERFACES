@@ -131,12 +131,14 @@ con los 2 puntos se alinean a donde esten puestoa
 </details>
 ## diagrama de flujo lr left to roght td arriba ajabo
 
-```merdaid
- graph td;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ```
 
 
